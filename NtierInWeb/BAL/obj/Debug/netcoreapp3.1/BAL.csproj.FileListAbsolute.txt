@@ -1,0 +1,12 @@
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\obj\Debug\netcoreapp3.1\BAL.csprojAssemblyReference.cache
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\BAL\obj\Debug\netcoreapp3.1\BAL.pdb

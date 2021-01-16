@@ -1,0 +1,9 @@
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<table class="table table-striped">
+    <tr>
+        <th>Employee Id</th>
+        <th>Employee Name</th>
+        <th>Department Id</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.EmpId</td>
+            <td>@item.EmpName</td>
+            <td>@item.DepId</td>
+        </tr>
+
+    }
+
+</table>
