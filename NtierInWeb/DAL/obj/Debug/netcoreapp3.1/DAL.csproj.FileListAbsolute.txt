@@ -7,3 +7,12 @@ C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL
 C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
 C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
 C:\Users\vpadira\Desktop\MVC_Practice\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\WebApp16-01-2021\NtierInWeb\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\WebApp16-01-2021\NtierInWeb\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\WebApp16-01-2021\NtierInWeb\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\WebApp16-01-2021\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\WebApp16-01-2021\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\WebApp16-01-2021\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\WebApp16-01-2021\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\WebApp16-01-2021\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\WebApp16-01-2021\NtierInWeb\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

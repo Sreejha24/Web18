@@ -7,15 +7,21 @@
 <table class="table table-striped">
     <tr>
         <th>Employee Id</th>
-        <th>Employee Name</th>
-        <th>Department Id</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Email</th>
+        <th>City</th>
+        <th>Mobile</th>
     </tr>
     @foreach (var item in Model)
     {
         <tr>
-            <td>@item.EmpId</td>
-            <td>@item.EmpName</td>
-            <td>@item.DepId</td>
+            <td>@item.EmployeeID</td>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+            <td>@item.Email</td>
+            <td>@item.City</td>
+            <td>@item.Mobile</td>
         </tr>
 
     }

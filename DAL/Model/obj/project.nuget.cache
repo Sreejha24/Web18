@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iamtS6QJOv5WykGnDZ3FS8XCcl5kmjUyLaDjFY7y3DcbAVkpy74R9xCvW4cBiFij2qzEN9CuCL/XMydnMlCA1Q==",
+  "success": true,
+  "projectFilePath": "D:\\WebApp16-01-2021\\DAL\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sprathipati\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sprathipati\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sprathipati\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

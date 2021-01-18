@@ -1,0 +1,37 @@
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\appsettings.json
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\Testing in Mvc.exe
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\Testing in Mvc.deps.json
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\Testing in Mvc.runtimeconfig.json
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\Testing in Mvc.runtimeconfig.dev.json
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\Testing in Mvc.dll
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\Testing in Mvc.pdb
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\Testing in Mvc.Views.dll
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\bin\Debug\netcoreapp3.1\Testing in Mvc.Views.pdb
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.csprojAssemblyReference.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.AssemblyInfoInputs.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.AssemblyInfo.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.csproj.CoreCompileInputs.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.MvcApplicationPartsAssemblyInfo.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.RazorAssemblyInfo.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.RazorAssemblyInfo.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\staticwebassets\Testing in Mvc.StaticWebAssets.Manifest.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\staticwebassets\Testing in Mvc.StaticWebAssets.xml
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\Testing in Mvc.styles.css
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.TagHelpers.input.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.TagHelpers.output.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.RazorCoreGenerate.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.RazorTargetAssemblyInfo.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.RazorTargetAssemblyInfo.cs
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.Views.pdb
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.dll
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.pdb
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.genruntimeconfig.cache
+S:\Project(Tollplus)\Testing in Mvc\Testing in Mvc\obj\Debug\netcoreapp3.1\Testing in Mvc.csproj.CopyComplete

@@ -40,9 +40,12 @@ namespace NtierInWeb.Controllers
             {
                 Employee employee = new Employee()
                 {
-                    EmpId = int.Parse(row["EmpId"].ToString()),
-                    EmpName=row["EmpName"].ToString(),
-                    DepId=int.Parse(row["DepId"].ToString())
+                    EmployeeID = int.Parse(row["EmployeeID"].ToString()),
+                    FirstName = row["FirstName"].ToString(),
+                    LastName  = row["LastName"].ToString(),
+                    Email     = row["Email"].ToString(),
+                    City      = row["City"].ToString(),
+                    Mobile    = long.Parse(row["Mobile"].ToString())
                 };
                 employees.Add(employee);
             }

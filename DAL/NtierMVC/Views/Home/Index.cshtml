@@ -1,0 +1,61 @@
+﻿@model IEnumerable<NtierMVC.Models.Person>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form method="get" asp-action="Index">
+    <p>
+        <input type="search" placeholder="Enter name or email!!" value="@ViewData["GetPersonDetails"]" name="PersonSearch" style="width:500px;" />
+        <input type="submit" value="search" class="btn btn-primary" />|
+        <a asp-action="Index" class="btn btn-outline-success">Get all Person details</a>
+    </p>
+</form>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mobile)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mobile)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.PersonID" class="btn btn-primary" value="Edit">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.PersonID" class="btn btn-success" value="Details">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.PersonID" class="btn btn-danger" value="Delete">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

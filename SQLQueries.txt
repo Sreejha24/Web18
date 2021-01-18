@@ -1,0 +1,122 @@
+Queries:
+*********************************************************
+
+CREATE TABLE Emp1(
+	Empid int IDENTITY(1,1) NOT NULL,
+	Empname varchar(255) NULL,
+	gender char(50) NULL,
+	)
+	Select * from Emp1
+	INSERT INTO Emp1(Empname, gender) Values ('Sai','M'),('Sreejha','F'),('Thikka','M'),('Roshh','F'),('Karthik','M'),('Ravi','M'),('Donkey','F')
+
+*********************************************************************
+
+CREATE TABLE Person(
+	PersonID int IDENTITY(1,1) NOT NULL,
+	FirstName varchar(255) NULL,
+	LastName varchar(255) NULL,
+	Email varchar(200) NULL,
+	Mobile bigint NULL,
+	Active bit NULL
+	)
+	SELECT * from Person
+
+*************************************************************
+
+
+CREATE TABLE OrderDetails
+(
+	OrderdetailId int IDENTITY(1,1) NOT NULL,
+	ProductId int NOT NULL,
+	OrderId int NOT NULL,
+	Quantity int NULL,
+	Price money NULL,
+)
+
+
+*************************************************************
+
+
+
+CREATE TABLE Order12(
+	OrderId int primary key IDENTITY(1,1) NOT NULL,
+	OrderAmount money,
+	OrderDate Date,
+	UserID nvarchar(250)
+	)
+	SELECT * FROM Order12
+
+
+
+***********************************************************
+
+
+CREATE TABLE Products(
+	ProductId int Primary Key IDENTITY(1,1) NOT NULL,
+	ProductName nvarchar(max) ,
+	ProductQuantity int ,
+	ProductPrice money,
+	FileImage varchar(max)
+) 
+SELECT * FROM Products
+
+
+***********************************************************************
+
+
+CREATE TABLE Person18(
+	PersonID int IDENTITY(1,1) NOT NULL,
+	FirstName varchar(255) NULL,
+	LastName varchar(255) NULL,
+	Email varchar(200) NULL,
+	Mobile bigint NULL
+	)
+
+	Insert into Person18(FirstName,LastName,Email,Mobile) Values ('Sai','Ram','sairam24@gmail.com',9989780234),('Sai','Sreejha','saisreejha04@gmail.com',8909876788),('Roshini','Gurram','rgurram@gmail.com',9908907689),('Karthik','Nagineni','knagineni24@gmail.com',78909689091),('Geethika','Thaduka','gthaduka@gmail.com',6079092345),('Donkey','Motamarri','donkeymotamarri@gmail.com',7698058713),('Ganesh','Yadhav','ganeshyadhav@gmail.com',609234160),('Krishna','Tikkala','ktikkala@gmail.com',7890567878);
+	SELECT * from Person18
+
+
+
+
+****************************************************************
+
+
+Stored Procedure:
+
+Creation of sp:
+--------------------
+CREATE PROCEDURE GetEmployeeDetails
+	-- Add the parameters for the stored procedure here
+	
+	AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	SELECT * from Emp1
+
+END
+GO
+Select * from GetEmployeeDetails
+Exec GetEmployeeDetails;
+
+****************************************************************************
+
+Insertion of SP:
+-----------------
+
+ALTER procedure usp_Apiemployee
+
+
+@EmpName as varchar(50),
+@Salary as money
+as
+begin
+insert into Apiemployee(EmpName,Salary) values(@EmpName,@Salary)
+
+end
+exec usp_Apiemployee @EmpName='rosh',@Salary=6773
+
+

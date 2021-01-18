@@ -7,12 +7,15 @@ using System.Threading.Tasks;
 
 namespace NtierInWeb.Models
 {
-    [Table("Employees2")]
+    [Table("Employees")]
     public class Employee
     {
         [Key]
-        public int EmpId { get; set; }
-        public string EmpName { get; set; }
-        public int DepId { get; set; }
+        public int EmployeeID { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Email { get; set; }
+        public string City { get; set; }
+        public long Mobile { get; set; }
     }
 }
